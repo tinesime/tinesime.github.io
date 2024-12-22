@@ -1,0 +1,10 @@
+title: tinesime
+email: tine.simenc1@gmail.com
+description: >-
+  tinesime is a web developer from Graz, Austria
+baseurl: ""
+url: "https://tinesime.github.io"
+github_username:  tinesime
+
+plugins:
+  - jekyll-seo-tag

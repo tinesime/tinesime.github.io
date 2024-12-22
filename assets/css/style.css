@@ -1,0 +1,97 @@
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.container {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+header {
+    background-color: rgba(249, 249, 249, 0.63);
+    border: 1px solid #333;
+    border-radius: 5px;
+    font-family: "Forum", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2rem;
+    font-family: "Forum", serif;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+nav ul li a.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.title {
+    font-size: 2rem;
+    font-family: "Forum", serif;
+    opacity: 0.8;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.heading {
+    font-size: 2rem;
+    font-family: "Noto", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.content {
+    font-family: "Forum", serif;
+    font-size: 1.2rem;
+    padding-bottom: 2rem;
+}
+
+.quote-box {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgba(249, 249, 249, 0.63);
+    font-style: italic;
+}
+
+.github-link {
+    text-decoration: underline;
+    text-underline: dotted;
+    color: #333;
+    cursor: pointer;
+}
