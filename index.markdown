@@ -22,7 +22,7 @@ With a dedication to continuous learning, problem-solving, and collaboration, I 
 working with like-minded professionals. Whether it’s mastering new technologies, improving existing systems, or
 exploring innovative concepts, I am always eager to grow and contribute meaningfully to any team I’m part of.
 
-> *The things that can be seen, heard, and learned are what I prize the most. - Fragments of Heraclitus (55)*
+> *The things that can be seen, heard, and learned are what I prize the most. - Heraclitus*
 
 With a passion for innovation and an unwavering commitment to excellence, I am ready to take on the next challenge and
 push the boundaries of what’s possible in the world of computer science and beyond.
