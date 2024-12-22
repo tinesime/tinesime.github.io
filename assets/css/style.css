@@ -10,11 +10,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
 }
 
 .container {
-    overflow: hidden;
     display: flex;
     flex-direction: column;
     width: 50%;
