@@ -23,3 +23,4 @@ others, and always look for ways to improve and grow.
 - Linux
 - Figma, Adobe XD
 - Scrum, Agile
+- WordPress, Gutenberg
