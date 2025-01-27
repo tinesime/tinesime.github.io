@@ -18,3 +18,5 @@ permalink: '/projects/'
 4. [tinesime.github.io](https://github.com/tinesime/tinesime.github.io){: .github-link}
 
 5. [A simple file archiver](https://github.com/tinesime/archiver){: .github-link}
+
+6. [A simple chat app](https://github.com/tinesime/chat){: .github-link}
