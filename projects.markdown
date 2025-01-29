@@ -22,3 +22,5 @@ permalink: '/projects/'
 6. [A simple chat app](https://github.com/tinesime/chat){: .github-link}
 
 7. [Datetime Picker](https://github.com/tinesime/datetime-picker.git){: .github-link}
+
+8. [Notification API](https://github.com/tinesime/notification-api.git){: .github-link}
